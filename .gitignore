@@ -1,0 +1,25 @@
+# Dataset
+data/train_images/
+data/test_images/
+*.zip
+
+# Model checkpoints
+*.h5
+*.keras
+*.pth
+*.pt
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
